@@ -37,7 +37,7 @@
                                                 </constraints>
                                             </view>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <constraints>
                                             <constraint firstItem="ITV-HE-yJp" firstAttribute="centerY" secondItem="kWx-lZ-w51" secondAttribute="centerY" multiplier="0.5" id="AWb-fb-KTe"/>
                                             <constraint firstItem="ITV-HE-yJp" firstAttribute="centerX" secondItem="kWx-lZ-w51" secondAttribute="centerX" id="mFu-BD-ffR"/>
@@ -57,7 +57,7 @@
                                 <viewLayoutGuide key="frameLayoutGuide" id="Vaz-1g-KAf"/>
                             </scrollView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bf0-ju-nh1" userLabel="GreenView">
-                                <rect key="frame" x="167" y="115" width="80" height="80"/>
+                                <rect key="frame" x="167" y="413" width="80" height="80"/>
                                 <color key="backgroundColor" systemColor="systemGreenColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="80" id="LLi-cC-rFe"/>
